@@ -25,7 +25,6 @@ Before you begin, ensure you have the following installed:
 
    ```
    git clone https://github.com/AK0561/HTTP-Server.git
-)
    ```
 
 2. Navigate to the project directory.
